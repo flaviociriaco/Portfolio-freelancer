@@ -42,11 +42,4 @@ Este projeto contou com apoio de Inteligência Artificial como ferramenta de pro
 
 Todo conteúdo final foi revisado, adaptado e utilizado para desenvolvimento profissional próprio.
 
-## 📍 Contato
 
-**Flávio **
-
-* WhatsApp: (11) 983434920
-* Email: [flaviociriaco@yahoo.com](mailto:flaviociriaco@yahoo.com)
-
-Feito para fins profissionais, aprendizado contínuo e atuação no mercado freelancer.
